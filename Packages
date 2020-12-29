@@ -1,0 +1,14 @@
+Package: a.b.c.d.e
+Name: abc defg
+Version: 1.0
+Architecture:  iphoneos-arm
+Description: 	bla
+Maintainer:     Amazia
+Author: 		Amazia
+Section: 		Tweak
+Depends: 		Dontknow
+Filename: 	    debs\test.deb
+Size: 			11
+MD5sum: 		6140a6d54f80e1c2f52aca5a1a9be274
+SHA1: 			e5792d9e5be2b11d922b87d51fb63498b1b34a22
+SHA256: 		3241705447a996c774aaede68efddffdcc0bd7d4b072d667779d2c6259e0ee8d
